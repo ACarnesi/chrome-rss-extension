@@ -1,0 +1,11 @@
+{
+  "name": "rsssubscriber",
+  "version": "1.0.0",
+  "description": "A Chrome extension for subscribing to rss endpoints and receiving their updates regularly",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Carnesi",
+  "license": "ISC"
+}
